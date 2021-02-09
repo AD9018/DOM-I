@@ -25,7 +25,7 @@ Topics:
 
 ## Project Description
  You will be making a timer that:
-  * Counts up to 10 seconds
+  * Counts up to 10 seconds *setinterval()****
   * Increments every 10 ms
   * Has digits change to red when it gets to 10 seconds
   * Should not count past 10 seconds
